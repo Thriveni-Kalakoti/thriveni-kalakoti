@@ -11,18 +11,37 @@ This is where I showcase my hands-on learning journey in **Data Science**, **Dat
 ## 📂 Featured Project Repositories
 
 ### 🔸 [Data Science Projects](https://github.com/Thriveni-Kalakoti/Data_Science_Projects)
-> A collection of applied projects involving:
-- Machine Learning (Regression, Classification)
-- Exploratory Data Analysis (EDA)
-- Natural Language Processing (NLP)
-- Google Colab Notebooks with detailed code + explanations
+Focus: Data analysis and machine learning experimentation
 
+- Exploratory Data Analysis (EDA)
+- Regression & Classification models
+- Feature engineering
+- NLP experiments
+- Notebook-based analysis with clear documentation
+
+Repository: **Data_Science_Projects**
 ### 🔹 [Data Engineering Projects](https://github.com/Thriveni-Kalakoti/Data_Engineering_Projects)
-> Projects focused on:
-- Building ETL Pipelines (Extract, Transform, Load)
-- Python and SQL-based data workflows
-- Data cleaning, formatting, and batch processing
-- Exploring tools like Pandas, Airflow, and cloud platforms
+Focus: Building data pipelines and structured data workflows
+
+- ETL Pipelines (CSV → Database, API → Database)
+- SQL-based transformations
+- Data validation and cleaning
+- Batch data processing
+- Exploring tools like Pandas, Airflow, and cloud integrations
+
+Repository: **Data_Engineering_Projects**
+
+### 🚀 [AI/ ML / MLOps Projects](https://github.com/Thriveni-Kalakoti/AI_ML_MLOps_Projects)
+Focus: Production-grade ML systems and model deployment
+
+- End-to-end ML pipelines
+- Model deployment using FastAPI
+- Docker containerization
+- CI/CD using GitHub Actions
+- MLflow experiment tracking
+- GenAI / LLM-based applications
+
+Repository: **AI_ML_MLOps_Projects**
 
 ---
 ## 🎯 Project-Focused Goals
