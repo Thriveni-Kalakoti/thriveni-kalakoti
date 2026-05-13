@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thriveni Sai Kalakoti
 
-Aspiring Data Professional | Hands-On with Data Science, Engineering & GenAI | Building Real-World Projects in the Cloud
+Data Engineering Portfolio | Python, SQL, ETL, Cloud & Automation | Building Production-Style Data Pipelines
 
 Welcome to my GitHub portfolio! 
 
