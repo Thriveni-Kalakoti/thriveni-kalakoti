@@ -1,113 +1,131 @@
-# 👋 Hi, I'm Thriveni Sai Kalakoti
+# Hi, I'm Thriveni Sai Kalakoti 👋
 
-**Data Engineering Portfolio | Python, SQL, ETL, Cloud & Automation | Building Production-Style Data Pipelines**
+## Building Practical Projects in Data, AI, Machine Learning, Cloud & Automation
 
 Welcome to my GitHub portfolio.
 
-I am focused on building practical, real-world-style projects in **Data Engineering, DataOps, Cloud Data Platforms, and Automation**.
+This portfolio is focused on building practical, well-structured, and production-style projects across Data Engineering, Data Science, AI/ML, GenAI, MLOps, Cloud Platforms, Software Engineering, and Automation.
 
-My background is in **DevOps, infrastructure automation, Ansible, VMware Aria, CI/CD, cloud platforms, Python, and SQL**. I am now using that foundation to build stronger hands-on experience in modern data engineering workflows.
+My goal is to build projects that connect data, machine learning, AI applications, cloud infrastructure, and reliable engineering practices.
 
 ---
 
 ## 🔎 Current Focus
 
-I am currently focused on strengthening skills in:
+I am currently strengthening skills in:
 
-- Python for data engineering
+- Python programming
 - SQL and relational databases
-- ETL pipeline development
+- Data engineering pipelines
 - Data cleaning and validation
-- API-based data ingestion
-- Batch processing
+- Data science and analytics
+- Exploratory data analysis
+- Machine learning fundamentals
+- Feature engineering
+- Model evaluation
+- AI and GenAI workflows
+- RAG pipelines
+- Embeddings and vector databases
+- FastAPI-based AI applications
+- Docker and containerized workflows
 - Git and GitHub workflows
 - GitHub Actions CI/CD
-- Cloud data platform concepts
-- Automation using Ansible and DevOps practices
-- Production-style project structure and documentation
+- Cloud platform concepts
+- Production-style project structure
+- Clean technical documentation
 
 ---
 
 ## 📂 Portfolio Repositories
 
+### 🔹 AI / ML / MLOps Projects
+
+Projects focused on machine learning, AI applications, GenAI workflows, RAG pipelines, embeddings, vector databases, model deployment, MLflow, Docker, CI/CD, monitoring basics, and production-style ML workflows.
+
+**Repository:** [AI_ML_MLOps_Projects](https://github.com/Thriveni-Kalakoti/AI_ML_MLOps_Projects)
+
+---
+
 ### 🔹 Data Engineering Projects
 
-This repository focuses on practical data engineering work, including ETL pipelines, data ingestion, data cleaning, SQL workflows, automation, and pipeline validation.
+Practical data engineering projects focused on ETL pipelines, API ingestion, data cleaning, SQL workflows, data validation, batch processing, orchestration, automation, and pipeline reliability.
 
-Repository: **Data_Engineering_Projects**
+**Repository:** [Data_Engineering_Projects](https://github.com/Thriveni-Kalakoti/Data_Engineering_Projects)
 
 ---
 
 ### 🔹 Data Science Projects
 
-This repository focuses on data analysis and machine learning fundamentals, including EDA, feature engineering, regression, classification, model evaluation, and notebook-based experimentation.
+Projects focused on data analysis, exploratory data analysis, feature engineering, statistics, regression, classification, model evaluation, and notebook-based experimentation.
 
-Repository: **Data_Science_Projects**
-
----
-
-### 🔹 AI / ML / MLOps Projects
-
-This repository is for future production-style ML and MLOps projects, including ML pipelines, model deployment, CI/CD, Docker, MLflow, monitoring basics, and GenAI-related workflows.
-
-Repository: **AI_ML_MLOps_Projects**
+**Repository:** [Data_Science_Projects](https://github.com/Thriveni-Kalakoti/Data_Science_Projects)
 
 ---
 
-## 🧩 Background Strength
+## 🧩 Project Principles
 
-My DevOps and automation background helps me approach data engineering with a strong focus on:
+Projects in this portfolio are built with a focus on:
 
-- Reliability
-- Repeatability
-- Automation
-- Version control
-- CI/CD workflows
-- Infrastructure-aware engineering
-- Monitoring and operational thinking
-- Clean documentation
-
-This portfolio connects my automation experience with modern data engineering practices.
-
----
-
-## 🎯 Portfolio Goal
-
-My goal is to build a strong **Data Engineering portfolio** that shows practical, job-ready skills through clean, documented, and production-style projects.
-
-I am focusing on projects that demonstrate:
-
-- Real-world data movement
-- ETL pipeline design
-- SQL workflows
-- Data validation
-- Automation
-- CI/CD
+- Clear problem statements
+- Practical real-world use cases
+- Clean and modular code
+- Data quality and validation
+- Reproducible workflows
+- Machine learning experimentation
+- AI-ready data pipelines
+- API-based applications
+- Testing and CI/CD
+- Docker and deployment readiness
 - Cloud readiness
-- Reproducibility
-- Clear documentation
+- Monitoring and logging basics
+- Strong documentation
+- Business and technical impact
 
 ---
 
 ## 🛠 Tools & Technologies
 
 **Languages:** Python, SQL  
-**Data Engineering:** ETL, data cleaning, data validation, batch pipelines, API ingestion  
-**Databases:** SQLite, PostgreSQL, SQL Server basics  
-**Automation & DevOps:** Ansible, Git, GitHub Actions, CI/CD  
+
+**Data Engineering:** ETL, data pipelines, data cleaning, data validation, batch processing, API ingestion, orchestration  
+
+**Data Science:** EDA, feature engineering, statistics, regression, classification, model evaluation  
+
+**AI / GenAI:** RAG, embeddings, vector databases, LLM workflows, semantic search, AI assistants  
+
+**MLOps:** ML pipelines, MLflow, model deployment, monitoring basics, CI/CD for ML workflows  
+
+**Software & APIs:** FastAPI, modular Python, testing, application structure  
+
+**DevOps & Automation:** Git, GitHub Actions, Docker, CI/CD, automation scripts  
+
 **Cloud:** AWS, Azure, GCP concepts  
-**Other:** Docker, Linux, VS Code, Jupyter Notebook
+
+**Other Tools:** Linux, VS Code, Jupyter Notebook  
 
 ---
 
-## 📌 Next Steps
+## 🚀 Portfolio Roadmap
 
-I am actively improving this portfolio by adding more structured, production-style data engineering projects with:
+Upcoming focus areas include:
 
-- Better folder structure
-- Cleaner README files
-- Modular Python code
-- SQL validation
-- GitHub Actions workflows
-- Automation scripts
-- Real-world pipeline examples
+- End-to-end AI/ML projects
+- RAG-based AI applications
+- AI-ready data engineering pipelines
+- Vector database and semantic search projects
+- FastAPI-based AI applications
+- ML model deployment projects
+- MLOps workflow projects
+- PySpark batch processing pipelines
+- Cloud data warehouse projects
+- Real-time streaming pipelines
+- Data quality and observability workflows
+- CI/CD and monitoring improvements
+
+---
+
+## 🎯 Portfolio Goal
+
+The goal of this portfolio is to demonstrate practical, job-ready technical skills across Data, AI, Machine Learning, Cloud, Software Engineering, and Automation.
+
+The long-term focus is to build strong, production-style projects that show how data pipelines, machine learning models, AI applications, cloud platforms, and engineering best practices work together to solve real-world problems.
